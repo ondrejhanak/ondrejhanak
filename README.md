@@ -2,7 +2,7 @@
 
 **Senior iOS Engineer** · iOS since 2012 · software since 2008
 
-I build native iOS apps with a focus on **security**, **accessibility** and **testability**. On the side, I tinker with **embedded and electronics** - ESP32, BLE, Arduino.
+I build native iOS apps with focus on **security**, **accessibility** and **testability**. On the side, I tinker with **embedded and electronics** - ESP32, BLE, Arduino.
 
 Currently contributing to [TruU](https://www.truu.ai) - **AI-powered passwordless authentication**.
 Previously lead iOS engineer at [All Shapes](https://allshapes.io) for nearly a decade,
