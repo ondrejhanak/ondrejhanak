@@ -6,7 +6,7 @@ I build native iOS apps with focus on **security**, **accessibility** and **test
 
 Currently contributing to [TruU](https://www.truu.ai) - **AI-powered passwordless authentication**.
 Previously lead iOS engineer at [All Shapes](https://allshapes.io) for nearly a decade,
-shipping apps with 60k+ MAU and **multiple Apple features**. Co-founder of **iSpeak** and **EnglishTenses** - leanguage-learning iOS apps live on the App Store since 2013, acquired in 2026.
+shipping apps with 60k+ MAU and **multiple Apple features**. Co-founder of **iSpeak** and **EnglishTenses** - language-learning iOS apps live on the App Store since 2013, acquired in 2026.
 
 
 ## Tech
