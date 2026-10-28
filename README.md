@@ -1,6 +1,6 @@
 # Ing. Ondřej Hanák
 
-**Senior Software Engineer** · iOS since 2012 · web since 2008
+**Senior Software Engineer** · software since 2008 · iOS since 2012
 
 I build native iOS apps with focus on **security**, **accessibility** and **testability**. On the side, I tinker with **embedded and electronics** - ESP32, BLE, Arduino.
 
